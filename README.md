@@ -11,23 +11,23 @@ create an action role playing game. Learned and applied many concepts including:
 
 ## Scene walkthrough
 
-![](./misc/Screenshot5.png)
+![](./misc/screenshot5.png)
 
 Player starts on a path near the edge of a forest
 
-![](./misc/Screenshot3.png)
+![](./misc/screenshot3.png)
 
 Follows the path to a burning town. Enemy mobs scattered throughout.
 
-![](./misc/Screenshot2.png)
+![](./misc/screenshot2.png)
 
 Special attack on an enemy
 
-![](./misc/Screenshot1.png)
+![](./misc/screenshot1.png)
 
 Magic attack is a projectile that pierces.
 
-![](./misc/Screenshot4.png)
+![](./misc/screenshot4.png)
 
 This is where the entrance to the boss fight would be, if we had one.
 
